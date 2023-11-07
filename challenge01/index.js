@@ -18,8 +18,6 @@ app.get('/', (req, res) => {
         result += `${word}${words[word]}`;
     }
 
-    console.log(result);
-
     res.send(result);
 });
 
