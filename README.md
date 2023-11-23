@@ -17,6 +17,7 @@ A lo largo del reto, iré actualizando este repositorio con mis soluciones a los
 
 - [Solución 1](https://github.com/davidbenadev/codember2023/blob/main/challenge01/index.js)
 - [Solución 2](https://github.com/davidbenadev/codember2023/blob/main/challenge02/index.js)
+- [Solución 3](https://github.com/davidbenadev/codember2023/blob/main/challenge03/index.js)
 
 ¿Te gustaría participar también? Únete al reto de **Codember 2023** siguiendo este [enlace](https://codember.dev/).
 
